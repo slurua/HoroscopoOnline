@@ -157,8 +157,8 @@ background-repeat: no-repeat;
 float: left;
 }
 .caja4{
-  width: 200px;
-  height:200px;
+  width: 150px;
+  height:150px;
   background-color:  #000000;
     border:10px solid black;
     font-weight: bold;
@@ -168,11 +168,11 @@ float: left;
 background-image: url(pablo.png);
 background-size: contain;
 background-repeat: no-repeat;
-float: left;
+float: none;
 }
 .caja5{
-  width: 200px;
-  height:200px;
+  width: 150px;
+  height:150px;
   background-color:  #000000;
     border:10px solid black;
     font-weight: bold;
@@ -182,7 +182,7 @@ float: left;
 background-image: url(eli.png);
 background-size: contain;
 background-repeat: no-repeat;
-float: left;
+float: none;
 }
 .clearfix{
   float: none;
