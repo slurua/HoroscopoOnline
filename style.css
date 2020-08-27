@@ -155,8 +155,34 @@ background-image: url(piscis.jpg);
 background-size: contain;
 background-repeat: no-repeat;
 float: left;
-
-;
+}
+.caja4{
+  width: 200px;
+  height:200px;
+  background-color:  #000000;
+    border:10px solid black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial;
+background-image: url(pablo.png);
+background-size: contain;
+background-repeat: no-repeat;
+float: left;
+}
+.caja5{
+  width: 200px;
+  height:200px;
+  background-color:  #000000;
+    border:10px solid black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial;
+background-image: url(eli.png);
+background-size: contain;
+background-repeat: no-repeat;
+float: left;
 }
 .clearfix{
   float: none;
