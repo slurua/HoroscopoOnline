@@ -55,7 +55,7 @@
   }
   else if (signo.value == 9)
   {
-    alert(" Al ser Sagitario tienes un fuego estable que se activa solo en los momentos necesarios, eres optimista, alegre y enchavador, un dia todo te puede salir bien y al otro rompes un paquete de pasta, eres alegre y amable y por tu nombre y la ciudad en que naciste eres muy bueno haciendo el SI amasado, eres inteligente y muy activo, cuando te propones algo no paras hasta logralo.");
+    alert(" Al ser Sagitario tienes un fuego estable que se activa solo en los momentos necesarios, eres optimista, alegre y enchavador, un dia todo te puede salir bien y al otro rompes un paquete de pasta, eres alegre y amable. Por tu nombre y la ciudad en que naciste eres muy bueno haciendo el SI amasado, eres inteligente y muy activo, cuando te propones algo no paras hasta logralo.");
   }
   }
 
