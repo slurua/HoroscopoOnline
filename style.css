@@ -168,7 +168,7 @@ float: left;
 background-image: url(pablo.png);
 background-size: contain;
 background-repeat: no-repeat;
-float: none;
+float: left;
 }
 .caja5{
   width: 150px;
@@ -182,7 +182,7 @@ float: none;
 background-image: url(eli.png);
 background-size: contain;
 background-repeat: no-repeat;
-float: none;
+float: left;
 }
 .clearfix{
   float: none;
