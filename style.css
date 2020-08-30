@@ -67,26 +67,37 @@ a{
 .link_boton{
   text-decoration: underline;
   color: lightblue;
+  transition: all 1s;
 }
 .link_boton:hover{
   text-decoration: underline;
   color: blue;
+  transition: all 1s;
+
 }
 .link_boton:active{
   text-decoration: underline;
   color: darkblue;
+  transition: all 1s;
+
 }
 .retorno{
   text-decoration: underline;
   color: lightblue;
+  transition: all 1s;
+
 }
 .retorno:hover{
   text-decoration: underline;
   color: blue;
+  transition: all 1s;
+
 }
 .retorno:active{
   text-decoration: underline;
   color: darkblue;
+  transition: all 1s;
+
 }
 /* selector de id */
 #descripcion{
