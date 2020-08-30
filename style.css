@@ -149,6 +149,7 @@ background-color: lightblue;
 text-align: center;
 box-shadow: 1px 1px 8px lightblue;
 border-radius: 15px;
+transition: all 1s;
 }
 .botonetes:hover{
   font-family: 'Grenze Gotisch';
