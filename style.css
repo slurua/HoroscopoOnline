@@ -91,10 +91,54 @@ footer a
   color: white;
   font-size: 20px;
 }
+.cuadros{
+  border: 2px solid black;
+width: 80px;
+height:10px;
+background-color: grey;
+color: black;
+text-align: center;
+line-height: 50px;
+box-shadow: 1px 1px 8px blue;
+border-radius: 5px;
+}
 .botonetes{
   font-family: 'Grenze Gotisch';
   font-weight: bolder;
-  color: black;
+  color: black
+  border: 2px solid black;
+width: 80px;
+height:30px;
+background-color: lightblue;
+text-align: center;
+box-shadow: 1px 1px 8px lightblue;
+border-radius: 15px;
+}
+.botonetes:hover{
+  font-family: 'Grenze Gotisch';
+  font-weight: bolder;
+  color: black
+  border: 2px solid black;
+width: 90px;
+height:40px;
+background-color: blue;
+text-align: center;
+box-shadow: 1px 1px 8px lightblue;
+border-radius: 20px;
+transition: all 1s;
+}
+.botonetes:active{
+  font-family: 'Grenze Gotisch';
+  font-weight: bolder;
+  color: black
+  border: 2px solid black;
+  width: 90px;
+  height:40px;
+  background-color: darkblue;
+  text-align: center;
+  box-shadow: 1px 1px 8px lightblue;
+  border-radius: 20px;
+  transition: all 0.5s;
 }
 /* selector de atributo */
 #usuario form{
