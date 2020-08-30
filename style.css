@@ -155,6 +155,8 @@ input[type="text"]{
   padding: 10px;
   width: 200px;
   cursor: pointer;
+  border: solid black;
+  border-radius: 5px;
   color: black !important;
 }
 .caja1{
