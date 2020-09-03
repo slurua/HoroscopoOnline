@@ -69,5 +69,5 @@
   }
   function noporClick()
   {
-    alert(" El Horoscopo inclina pero no obliga!!. Te lo dije o no te lo dije ah?? Recontratomatela gil!!!");
+    alert(" El Horoscopo inclina pero no obliga!!. Te lo dije o no te lo dije ah??");
   }
